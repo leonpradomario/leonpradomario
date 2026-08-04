@@ -21,7 +21,6 @@ mechatronics at **PUCP**, where I'm finishing a thesis on an underwater ROV.
 
 | | |
 |---|---|
-| 🌊 **[underwater-rov-thesis](https://github.com/leonpradomario/underwater-rov-thesis)** | BlueROV2-style underwater vehicle — design, control and simulation. My thesis, published as I go. |
 | 🤖 **[ros2-desde-cero](https://github.com/leonpradomario/ros2-desde-cero)** | ROS2 explained from zero, **in Spanish**. The guide I wish I'd had when I started. |
 | ⚙️ **[ai-dev-workspace](https://github.com/leonpradomario/ai-dev-workspace)** | How I actually use AI in my daily engineering work — agents, skills, automations. |
 
