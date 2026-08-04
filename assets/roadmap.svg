@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="290" viewBox="0 0 900 290" role="img" aria-label="Roadmap: ai-dev-workspace 20 percent, ros2-desde-cero starting, underwater-rov-thesis planned">
+  <rect width="900" height="290" rx="12" fill="#0E1726"/>
+  <rect x="0" y="0" width="900" height="290" rx="12" fill="none" stroke="#1E2A3D" stroke-width="1"/>
+  <text x="34" y="44" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#8A97AB" letter-spacing="2">ROADMAP</text>
+  <line x1="34" y1="60" x2="866" y2="60" stroke="#1E2A3D" stroke-width="1"/>
+
+  <text x="34" y="98" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#FFFFFF">ai-dev-workspace</text>
+  <text x="866" y="98" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14" fill="#74D93F">20%</text>
+  <rect x="34" y="110" width="832" height="8" rx="4" fill="#1E2A3D"/>
+  <rect x="34" y="110" width="0" height="8" rx="4" fill="#74D93F"><animate attributeName="width" from="0" to="166" dur="1.4s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0 0 1"/></rect>
+  <text x="34" y="136" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" fill="#8A97AB">in progress &#183; agents, skills and automations I use daily</text>
+
+  <text x="34" y="182" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#FFFFFF">ros2-desde-cero</text>
+  <text x="866" y="182" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14" fill="#FFA53D">next</text>
+  <rect x="34" y="194" width="832" height="8" rx="4" fill="#1E2A3D"/>
+  <rect x="34" y="194" width="0" height="8" rx="4" fill="#FFA53D"><animate attributeName="width" from="0" to="30" dur="1.4s" begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0 1"/><animate attributeName="opacity" values="1;0.45;1" dur="2.4s" begin="1.9s" repeatCount="indefinite"/></rect>
+  <text x="34" y="220" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" fill="#8A97AB">starting now &#183; ROS 2 from zero, written in Spanish</text>
+
+  <text x="34" y="266" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#FFFFFF">underwater-rov-thesis</text>
+  <text x="866" y="266" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14" fill="#6149B0">planned</text>
+  <text x="240" y="266" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" fill="#8A97AB">BlueROV2-style vehicle &#183; design, control, simulation</text>
+</svg>
